@@ -1,0 +1,8 @@
+*.env
+.jira.env
+**/secrets*
+**/*credential*
+
+settings.local.json
+
+.DS_Store
